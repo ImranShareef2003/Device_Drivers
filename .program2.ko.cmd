@@ -1,0 +1,1 @@
+savedcmd_/home/emd-user27/Desktop/Drivers_43/Program2/program2.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/emd-user27/Desktop/Drivers_43/Program2/program2.ko /home/emd-user27/Desktop/Drivers_43/Program2/program2.o /home/emd-user27/Desktop/Drivers_43/Program2/program2.mod.o
